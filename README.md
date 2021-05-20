@@ -9,7 +9,7 @@ desenvolvo web e mobile.
 Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native.
 Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomyahel&show_icons=true&theme=radical)
 
 
 telescope Atualmente, estou estudando para conseguir um emprego.
