@@ -15,3 +15,5 @@ Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais mo
 telescope Atualmente, estou estudando para conseguir um emprego.
 seedling Tenho experiência com Typescript, Node.js, ReactJS e React Native.
 Veja meu LinkedIn: _ YHWH _YAWH rocket Atualmente estou estudando front-end na plataforma Programador BR além de outros cursos que também utilizo para estudos, como a plataforma da Rocketseat e Udemy.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomyahel)](https://github.com/Yomyahel/github-readme-stats)
