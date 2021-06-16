@@ -1,6 +1,6 @@
 <p>
   <a itemprop="image" target="_blank" rel="noopener noreferrer" href="https://github.com/Yomyahel/">
-    <img src="https://scontent-gru2-1.xx.fbcdn.net/v/t1.6435-9/46771352_1745917425520222_1307680111268462592_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=e3f864&_nc_ohc=jg9uAP5FGlYAX8tZJas&_nc_ht=scontent-gru2-1.xx&oh=d1e11b09b0f80c92c5d386f830b3f9f7&oe=60CC297D" style="max-width:100%;">
+    <img src="https://drive.google.com/file/d/1Znktdx9crYG93EvxthakTUqRHn4OY9Oy/view?usp=sharing" style="max-width:100%;">
   </a>
 </p>
 
