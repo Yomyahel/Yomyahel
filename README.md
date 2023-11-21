@@ -1,15 +1,6 @@
 
-<p>
-  <a itemprop="image" target="_blank" rel="noopener noreferrer" href="https://github.com/Yomyahel/">
-    <img src="https://scontent-gru2-2.xx.fbcdn.net/v/t1.6435-9/200188993_3765632336882044_4327401151291847556_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=qdxa5zP--s4AX_2X1rD&_nc_ht=scontent-gru2-2.xx&oh=3b9b9a54c5e5c67a9dd960ff14cc82b1&oe=60CF3E96" style="max-width:100%; margin:0px;">
-  </a>
-</p>
 
 
-<p>
- Sou um desenvolvedor Full Stack apaixonado pelas melhores tecnologias de desenvolvimento web e mobile. Tenho experiência com projetos utilizando JavaScript, Typescript, NodeJS, ReactJS e React Native. Sou aluno do Bootcamp Gostack at Rocketseat, onde aprendi na prática as mais modernas tecnologias de desenvolvimento web e mobile.
-<br>
-</p>
 <!-- 
 <p>
   <a href="https://www.instagram.com/ii_yhwh_ii/?hl=pt-br" rel="nofollow">
@@ -71,115 +62,10 @@
   &nbsp;
 </p>
 
-<ul>
-<li>
-  <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
-    <img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
-  </g-emoji> Atualmente, estou estudando para conseguir um emprego.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-    <img class="emoji" alt="seedling" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-  </g-emoji> Tenho experiência com Typescript, Node.js, ReactJS e React Native.
-  </li>
-<li>
-  Veja meu LinkedIn: 
-  <a href="https://www.linkedin.com/in/_ YHWH _YAWH/" rel="nofollow">
-    _ YHWH _YAWH
-  </a>
-<g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">
-  <img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">
-  </g-emoji>
-  Atualmente estou estudando front-end na plataforma 
-  <a href="https://programadorbr.com/" rel="nofollow">
-  Programador BR
-  </a>
-  além de outros cursos que também utilizo para estudos, como a plataforma da 
-  <a href="https://rocketseat.com.br" rel="nofollow">
-    Rocketseat
-  </a>
-  e 
-  <a href="https://udemy.com.br" rel="nofollow">Udemy</a>
-  .
-  </li>
-</ul>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomyahel)](https://github.com/Yomyahel/github-readme-stats)
 
 
-<p>
-  Estão aqui algumas das minhas habilidades e conhecimentos como Desenvolvedor Front-end:
-</p>
-<ul>
-<li>
-  <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
-    <img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">
-  </g-emoji>
-  <strong>
-    Front-end
-  </strong>
-  : HTML, CSS (Media Query, Animation, Flexbox, Grid), JavaScript (jQuery, ES6+), Bootstrap.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="capital_abcd" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f520.png">
-    <img class="emoji" alt="capital_abcd" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f520.png">
-  </g-emoji>
-  <strong>
-    Linguagens
-  </strong>
-  : HTML/CSS, JavaScript, ES6+.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="vs" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f19a.png">
-    <img class="emoji" alt="vs" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f19a.png">
-  </g-emoji> 
-  <strong>
-    Versionamento
-  </strong>
-  : Git.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="test_tube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png">
-    <img class="emoji" alt="test_tube" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png">
-  </g-emoji>
-  <strong>
-    Testes e automatização
-  </strong>
-  : NPM.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="game_die" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b2.png">
-    <img class="emoji" alt="game_die" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b2.png">
-  </g-emoji>
-  <strong>
-    Banco de Dados
-  </strong>
-  : Linguagem SQL, Modelagem de dados, PostgreSQL.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="building_construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png">
-    <img class="emoji" alt="building_construction" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3d7.png">
-  </g-emoji>
-  <strong>
-    Infraestrutura
-  </strong>
-  : HTTP, Windows 10.
-  </li>
-<li>
-  👷🏻 
-  <strong>
-    Arquitetura
-  </strong>
-  : Rest, Orientação a Objetos.
-  </li>
-<li>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">
-    <img class="emoji" alt="chart_with_upwards_trend" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">
-  </g-emoji>
-  <strong>
-    Engenharia de Software
-  </strong>
-  : Levantamento de requisitos
-  </li>
 </ul>
